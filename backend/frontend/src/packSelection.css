@@ -1,0 +1,65 @@
+.free-pack-selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: 'Arial', sans-serif;
+}
+
+h3 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.pack-buttons {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.pack-button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: gray;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pack-button:hover {
+    background-color: #4CAF50;
+}
+
+.pack-button.selected {
+    border-color: #4CAF50;
+    background-color: #4CAF50;
+}
+
+.confirm-button {
+    padding: 12px 24px;
+    font-size: 18px;
+    color: white;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.confirm-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+.confirm-button:hover:not(:disabled) {
+    background-color: #45a049;
+}
+
+.error-message {
+    color: red;
+    margin-top: 20px;
+    font-size: 16px;
+}

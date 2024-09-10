@@ -1,0 +1,26 @@
+.custom-alert {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    z-index: 1000;
+  }
+  
+  .custom-alert-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .custom-alert-close {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: #333;
+  }
+  

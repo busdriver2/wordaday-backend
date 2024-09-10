@@ -1,0 +1,562 @@
+[
+    {
+        "name": "Pack 1",
+        "price": 250,
+        "words": [
+            {
+                "id": 4903,
+                "name": "Amain",
+                "definition": "To lower, as a sail, a yard, etc."
+            },
+            {
+                "id": 9628,
+                "name": "Aspidobranchia",
+                "definition": "A group of Gastropoda, with limpetlike shells, including the abalone shells and keyhole limpets."
+            },
+            {
+                "id": 6629,
+                "name": "Antagonist",
+                "definition": "One who contends with another, especially in combat; an adversary; an opponent."
+            },
+            {
+                "id": 7287,
+                "name": "Aorist",
+                "definition": "A tense in the Greek language, which expresses an action as completed in past time, but leaves it, in other respects, wholly indeterminate."
+            },
+            {
+                "id": 7364,
+                "name": "Aphanitic",
+                "definition": "Resembling aphanite; having a very fine-grained structure."
+            },
+            {
+                "id": 8391,
+                "name": "Arch",
+                "definition": "Any part of a curved line."
+            },
+            {
+                "id": 5447,
+                "name": "Amphilogism",
+                "definition": "Alt. of Amphilogy"
+            },
+            {
+                "id": 2079,
+                "name": "Address",
+                "definition": "Manner of speaking to another; delivery; as, a man of pleasing or insinuating address."
+            },
+            {
+                "id": 221,
+                "name": "Abelian",
+                "definition": "Alt. of Abelonian"
+            },
+            {
+                "id": 9929,
+                "name": "Assonant",
+                "definition": "Pertaining to the peculiar species of rhyme called assonance; not consonant."
+            }
+        ]
+    },
+    {
+        "name": "Pack 2",
+        "price": 650,
+        "words": [
+            {
+                "id": 10616,
+                "name": "Atticize",
+                "definition": "To conform or make conformable to the language, customs, etc., of Attica."
+            },
+            {
+                "id": 9994,
+                "name": "Assured",
+                "definition": "Made sure; safe; insured; certain; indubitable; not doubting; bold to excess."
+            },
+            {
+                "id": 2267,
+                "name": "Adjudicature",
+                "definition": "Adjudication."
+            },
+            {
+                "id": 10442,
+                "name": "Attach",
+                "definition": "To win the heart of; to connect by ties of love or self-interest; to attract; to fasten or bind by moral influence; -- with to; as, attached to a friend; attaching others to us by wealth or flattery."
+            },
+            {
+                "id": 3189,
+                "name": "After",
+                "definition": "Below in rank; next to in order."
+            },
+            {
+                "id": 6407,
+                "name": "Annotating",
+                "definition": "of Annotate"
+            },
+            {
+                "id": 5112,
+                "name": "Ambulative",
+                "definition": "Walking."
+            },
+            {
+                "id": 10133,
+                "name": "Astro-",
+                "definition": "The combining form of the Greek word 'a`stron, meaning star."
+            },
+            {
+                "id": 9314,
+                "name": "Artless",
+                "definition": "Wanting art, knowledge, or skill; ignorant; unskillful."
+            },
+            {
+                "id": 3452,
+                "name": "Agitate",
+                "definition": "To move or actuate."
+            }
+        ]
+    },
+    {
+        "name": "Pack 3",
+        "price": 800,
+        "words": [
+            {
+                "id": 8805,
+                "name": "Aristocratism",
+                "definition": "The principles of aristocrats."
+            },
+            {
+                "id": 1412,
+                "name": "Acescent",
+                "definition": "A substance liable to become sour."
+            },
+            {
+                "id": 11333,
+                "name": "Avoid",
+                "definition": "To get rid of."
+            },
+            {
+                "id": 7420,
+                "name": "Apian",
+                "definition": "Belonging to bees."
+            },
+            {
+                "id": 2386,
+                "name": "Admissibility",
+                "definition": "The quality of being admissible; admissibleness; as, the admissibility of evidence."
+            },
+            {
+                "id": 5500,
+                "name": "Amplification",
+                "definition": "The matter by which a statement is amplified; as, the subject was presented without amplifications."
+            },
+            {
+                "id": 1663,
+                "name": "Acquisition",
+                "definition": "The thing acquired or gained; an acquirement; a gain; as, learning is an acquisition."
+            },
+            {
+                "id": 7111,
+                "name": "Antipole",
+                "definition": "The opposite pole; anything diametrically opposed."
+            },
+            {
+                "id": 7000,
+                "name": "Antiicteric",
+                "definition": "Good against jaundice."
+            },
+            {
+                "id": 11186,
+                "name": "Avatar",
+                "definition": "Incarnation; manifestation as an object of worship or admiration."
+            }
+        ]
+    },
+    {
+        "name": "Pack 4",
+        "price": 850,
+        "words": [
+            {
+                "id": 6712,
+                "name": "Antefix",
+                "definition": "An ornament at the eaves, concealing the ends of the joint tiles of the roof."
+            },
+            {
+                "id": 4351,
+                "name": "Allegorize",
+                "definition": "To use allegory."
+            },
+            {
+                "id": 4674,
+                "name": "Alonely",
+                "definition": "Only; merely; singly."
+            },
+            {
+                "id": 2342,
+                "name": "Administerial",
+                "definition": "Pertaining to administration, or to the executive part of government."
+            },
+            {
+                "id": 5846,
+                "name": "Anatomy",
+                "definition": "A skeleton; anything anatomized or dissected, or which has the appearance of being so."
+            },
+            {
+                "id": 9231,
+                "name": "Article",
+                "definition": "To accuse or charge by an exhibition of articles."
+            },
+            {
+                "id": 6177,
+                "name": "Angry",
+                "definition": "Showing anger; proceeding from anger; acting as if moved by anger; wearing the marks of anger; as, angry words or tones; an angry sky; angry waves."
+            },
+            {
+                "id": 10897,
+                "name": "Auricular",
+                "definition": "Pertaining to the auricles of the heart."
+            },
+            {
+                "id": 374,
+                "name": "Abligate",
+                "definition": "To tie up so as to hinder from."
+            },
+            {
+                "id": 8426,
+                "name": "Archaizing",
+                "definition": "of Archaize"
+            }
+        ]
+    },
+    {
+        "name": "Pack 5",
+        "price": 1000,
+        "words": [
+            {
+                "id": 10741,
+                "name": "Audient",
+                "definition": "A hearer; especially a catechumen in the early church."
+            },
+            {
+                "id": 2322,
+                "name": "Admeasure",
+                "definition": "To measure."
+            },
+            {
+                "id": 6803,
+                "name": "Anthomania",
+                "definition": "A extravagant fondness for flowers."
+            },
+            {
+                "id": 605,
+                "name": "Abscond",
+                "definition": "To hide, withdraw, or be concealed."
+            },
+            {
+                "id": 8942,
+                "name": "Arnica",
+                "definition": "A genus of plants; also, the most important species (Arnica montana), native of the mountains of Europe, used in medicine as a narcotic and stimulant."
+            },
+            {
+                "id": 2494,
+                "name": "Adorner",
+                "definition": "He who, or that which, adorns; a beautifier."
+            },
+            {
+                "id": 840,
+                "name": "Abye",
+                "definition": "To pay for; to suffer for; to atone for; to make amends for; to give satisfaction."
+            },
+            {
+                "id": 5063,
+                "name": "Amble",
+                "definition": "To go at the easy gait called an amble; -- applied to the horse or to its rider."
+            },
+            {
+                "id": 8445,
+                "name": "Archduke",
+                "definition": "A prince of the imperial family of Austria."
+            },
+            {
+                "id": 8944,
+                "name": "Arnicine",
+                "definition": "An alkaloid obtained from the arnica plant."
+            }
+        ]
+    },
+    {
+        "name": "Pack 6",
+        "price": 150,
+        "words": [
+            {
+                "id": 3935,
+                "name": "Alcaic",
+                "definition": "Pertaining to Alcaeus, a lyric poet of Mitylene, about 6000 b. c."
+            },
+            {
+                "id": 10671,
+                "name": "Attractor",
+                "definition": "One who, or that which, attracts."
+            },
+            {
+                "id": 7700,
+                "name": "Apparition",
+                "definition": "The act of becoming visible; appearance; visibility."
+            },
+            {
+                "id": 9280,
+                "name": "Artificer",
+                "definition": "A military mechanic, as a blacksmith, carpenter, etc.; also, one who prepares the shells, fuses, grenades, etc., in a military laboratory."
+            },
+            {
+                "id": 1302,
+                "name": "Accumb",
+                "definition": "To recline, as at table."
+            },
+            {
+                "id": 2630,
+                "name": "Advent",
+                "definition": "The first or the expected second coming of Christ."
+            },
+            {
+                "id": 5367,
+                "name": "Amorwe",
+                "definition": "On the following morning."
+            },
+            {
+                "id": 5158,
+                "name": "Amelioration",
+                "definition": "The act of ameliorating, or the state of being ameliorated; making or becoming better; improvement; melioration."
+            },
+            {
+                "id": 2081,
+                "name": "Address",
+                "definition": "Skill; skillful management; dexterity; adroitness."
+            },
+            {
+                "id": 6394,
+                "name": "Anniversarily",
+                "definition": "Annually."
+            }
+        ]
+    },
+    {
+        "name": "Pack 7",
+        "price": 450,
+        "words": [
+            {
+                "id": 2594,
+                "name": "Advance",
+                "definition": "To furnish, as money or other value, before it becomes due, or in aid of an enterprise; to supply beforehand; as, a merchant advances money on a contract or on goods consigned to him."
+            },
+            {
+                "id": 7408,
+                "name": "Aphrodite",
+                "definition": "The Greek goddess of love, corresponding to the Venus of the Romans."
+            },
+            {
+                "id": 3029,
+                "name": "Affix",
+                "definition": "To attach, unite, or connect with; as, names affixed to ideas, or ideas affixed to things; to affix a stigma to a person; to affix ridicule or blame to any one."
+            },
+            {
+                "id": 10950,
+                "name": "Auspicious",
+                "definition": "Favoring; favorable; propitious; -- applied to persons or things."
+            },
+            {
+                "id": 2060,
+                "name": "Addoom",
+                "definition": "To adjudge."
+            },
+            {
+                "id": 10679,
+                "name": "Attributed",
+                "definition": "of Attribute"
+            },
+            {
+                "id": 756,
+                "name": "Abstract",
+                "definition": "A powdered solid extract of a vegetable substance mixed with sugar of milk in such proportion that one part of the abstract represents two parts of the original substance."
+            },
+            {
+                "id": 171,
+                "name": "Abdicating",
+                "definition": "of Abdicate"
+            },
+            {
+                "id": 54,
+                "name": "Abalone",
+                "definition": "A univalve mollusk of the genus Haliotis. The shell is lined with mother-of-pearl, and used for ornamental purposes; the sea-ear. Several large species are found on the coast of California, clinging closely to the rocks."
+            },
+            {
+                "id": 1617,
+                "name": "Acotyledonous",
+                "definition": "Having no seed lobes, as the dodder; also applied to plants which have no true seeds, as ferns, mosses, etc."
+            }
+        ]
+    },
+    {
+        "name": "Pack 8",
+        "price": 600,
+        "words": [
+            {
+                "id": 6335,
+                "name": "Anklet",
+                "definition": "An ornament or a fetter for the ankle; an ankle ring."
+            },
+            {
+                "id": 384,
+                "name": "Ablution",
+                "definition": "A small quantity of wine and water, which is used to wash the priest's thumb and index finger after the communion, and which then, as perhaps containing portions of the consecrated elements, is drunk by the priest."
+            },
+            {
+                "id": 10832,
+                "name": "Aularian",
+                "definition": "Relating to a hall."
+            },
+            {
+                "id": 10593,
+                "name": "Atter",
+                "definition": "Poison; venom; corrupt matter from a sore."
+            },
+            {
+                "id": 4771,
+                "name": "Altercate",
+                "definition": "To contend in words; to dispute with zeal, heat, or anger; to wrangle."
+            },
+            {
+                "id": 7411,
+                "name": "Aphroditic",
+                "definition": "Venereal."
+            },
+            {
+                "id": 2140,
+                "name": "Adfected",
+                "definition": "See Affected, 5."
+            },
+            {
+                "id": 7198,
+                "name": "Antithesis",
+                "definition": "An opposition or contrast of words or sentiments occurring in the same sentence; as, \"The prodigal robs his heir; the miser robs himself.\"  \"He had covertly shot at Cromwell; he how openly aimed at the Queen.\""
+            },
+            {
+                "id": 5842,
+                "name": "Anatomy",
+                "definition": "The art of dissecting, or artificially separating the different parts of any organized body, to discover their situation, structure, and economy; dissection."
+            },
+            {
+                "id": 6427,
+                "name": "Annoy",
+                "definition": "To disturb or irritate, especially by continued or repeated acts; to tease; to ruffle in mind; to vex; as, I was annoyed by his remarks."
+            }
+        ]
+    },
+    {
+        "name": "Pack 9",
+        "price": 550,
+        "words": [
+            {
+                "id": 6371,
+                "name": "Annex",
+                "definition": "To attach or connect, as a consequence, condition, etc.; as, to annex a penalty to a prohibition, or punishment to guilt."
+            },
+            {
+                "id": 5218,
+                "name": "Americanizing",
+                "definition": "of Americanize"
+            },
+            {
+                "id": 2775,
+                "name": "Aeolotropic",
+                "definition": "Exhibiting differences of quality or property in different directions; not isotropic."
+            },
+            {
+                "id": 5867,
+                "name": "Anchor",
+                "definition": "A iron instrument which is attached to a ship by a cable (rope or chain), and which, being cast overboard, lays hold of the earth by a fluke or hook and thus retains the ship in a particular station."
+            },
+            {
+                "id": 2167,
+                "name": "Adhesive",
+                "definition": "Sticky; tenacious, as glutinous substances."
+            },
+            {
+                "id": 2845,
+                "name": "Aerostatical",
+                "definition": "Aeronautic; as, an aerostatic voyage."
+            },
+            {
+                "id": 9194,
+                "name": "Artfulness",
+                "definition": "The quality of being artful; art; cunning; craft."
+            },
+            {
+                "id": 10054,
+                "name": "Asthmatic",
+                "definition": "A person affected with asthma."
+            },
+            {
+                "id": 1397,
+                "name": "Acerose",
+                "definition": "Having the nature of chaff; chaffy."
+            },
+            {
+                "id": 7917,
+                "name": "Appointee",
+                "definition": "A person in whose favor a power of appointment is executed."
+            }
+        ]
+    },
+    {
+        "name": "Pack 10",
+        "price": 150,
+        "words": [
+            {
+                "id": 4161,
+                "name": "Alible",
+                "definition": "Nutritive; nourishing."
+            },
+            {
+                "id": 8101,
+                "name": "Approximate",
+                "definition": "To carry or advance near; to cause to approach."
+            },
+            {
+                "id": 571,
+                "name": "Abrogating",
+                "definition": "of Abrogate"
+            },
+            {
+                "id": 8585,
+                "name": "Arduousness",
+                "definition": "The quality of being arduous; difficulty of execution."
+            },
+            {
+                "id": 9630,
+                "name": "Aspirant",
+                "definition": "One who aspires; one who eagerly seeks some high position or object of attainment."
+            },
+            {
+                "id": 3753,
+                "name": "Airing",
+                "definition": "A walk or a ride in the open air; a short excursion for health's sake."
+            },
+            {
+                "id": 4484,
+                "name": "Alloquy",
+                "definition": "A speaking to another; an address."
+            },
+            {
+                "id": 8701,
+                "name": "Arguable",
+                "definition": "Capable of being argued; admitting of debate."
+            },
+            {
+                "id": 5123,
+                "name": "Ambulatory",
+                "definition": "A place to walk in, whether in the open air, as the gallery of a cloister, or within a building."
+            },
+            {
+                "id": 8678,
+                "name": "Argillaceous",
+                "definition": "Of the nature of clay; consisting of, or containing, argil or clay; clayey."
+            }
+        ]
+    }
+]
