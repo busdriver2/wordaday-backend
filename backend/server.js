@@ -29,7 +29,7 @@ app.use('/api/test', questionRoutes)
 mongoose.connect(process.env.MONGO_URI)
 .then(() => {
     // listen for requests
-    app.listen(process.env.PORT, () => {
+    app.listen(process.env.PORT || 5555, () => {
         console.log('Connected to DB & Listening on port 4000')
     })
 })
