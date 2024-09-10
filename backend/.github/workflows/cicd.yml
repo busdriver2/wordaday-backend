@@ -28,3 +28,11 @@ jobs:
         run: docker rm -f wordaday-backend-container
       - name: Run Docker Container
         run: docker run -d -p 5555:5555 --name wordaday-backend-container -e MONGO_PASSWORD='${{ secrets.MONGO_PASSWORD }}' matt1128jr/wordaday-backend
+      - name: Run Docker Container
+        run: |
+          docker run -d -p ${{ secrets.PORT }}:${{ secrets.PORT }} \
+          --name wordaday-backend-container \
+          -e MONGO_URI='${{ secrets.MONGO_URI }}' \
+          -e SECRET='${{ secrets.SECRET }}' \
+          -e MONGO_PASSWORD='${{ secrets.MONGO_PASSWORD }}' \
+          matt1128jr/wordaday-backend
