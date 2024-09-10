@@ -33,7 +33,7 @@ jobs:
 
       - name: Run Docker Container
         run: |
-          docker run -d -p ${{ secrets.PORT }}:${{ secrets.PORT }} \
+          docker run -d -p 5555:5555 \
           --name wordaday-backend-container \
           -e MONGO_URI='${{ secrets.MONGO_URI }}' \
           -e SECRET='${{ secrets.SECRET }}' \
