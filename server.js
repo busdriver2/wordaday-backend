@@ -24,6 +24,9 @@ app.use('/api/user', userRoutes)
 app.use('/api/packs', packRoutes)
 app.use('/api/test', questionRoutes)
 
+app.get('/', (req, res) => {
+    res.send('Hello World!');
+  });
 
 // connect to DB
 mongoose.connect(process.env.MONGO_URI)
