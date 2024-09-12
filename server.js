@@ -1,6 +1,7 @@
 require('dotenv').config()
 
 const express = require('express')
+const cors = require('cors');
 const mongoose = require('mongoose')
 const wordRoutes = require('./routes/words.js')
 const userRoutes = require('./routes/user.js')
@@ -13,10 +14,16 @@ const app = express()
 // middleware
 app.use(express.json())
 
+app.use(cors({
+    origin: 'http://3.142.47.202:5173',  // Replace with your frontend's URL
+  }));
+
 app.use((req, res, next)=> {
     console.log(req.path, req.method)
     next()
 })
+
+
 
 // routes
 app.use('/api/words', wordRoutes)
